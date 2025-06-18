@@ -19,4 +19,4 @@ This is a simple text-based Hangman game built using Python. The player has to g
 
 ## Author
 
-[Your Name]
+yash darji
