@@ -6,7 +6,7 @@ This is a simple text-based Hangman game built using Python. The player has to g
 
 1. Run the program:
     ```bash
-    python hangman.py
+    python hangman_gui.py
     ```
 
 2. Guess letters to reveal the hidden word.
